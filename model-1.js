@@ -13,3 +13,16 @@
 # Arrays
 1. var array1 = ['bill', 'ted']
 2. var array2 = [17, 38]
+
+# Objects
+1. var person = {
+  firstName = 'Daniel'
+  lastName = 'Solomon'
+  harColor = 'brown'
+  height = 6
+}
+2. var dog = {
+  breed = 'golden'
+  eyeColor = 'brown'
+  age = 1
+}
