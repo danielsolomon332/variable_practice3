@@ -1,20 +1,21 @@
-# Strings
+ Strings
 1. var = 'tim'
 2. var = 'sue'
 
-# Numbers
+ Numbers
 1. var num1 = 7
 2. var num2 = -3.45
+3. var num3 = -45
 
-# Booleans
+ Booleans
 1. var isTall = false
 2. var isHappy = true
 
-# Arrays
+ Arrays
 1. var array1 = ['bill', 'ted']
 2. var array2 = [17, 38]
 
-# Objects
+ Objects
 1. var person = {
   firstName = 'Daniel'
   lastName = 'Solomon'
