@@ -9,3 +9,7 @@
 # Booleans
 1. var isTall = false
 2. var isHappy = true
+
+# Arrays
+1. var array1 = ['bill', 'ted']
+2. var array2 = [17, 38]
